@@ -1,5 +1,5 @@
 ### Hi there (〃▽〃)
-I'm currenly working on my own 2d mmorpg called magica online (C++) (๑˃ᴗ˂)ﻭ .
+I'm currenly working on my own 2D mmorpg called magica online (๑˃ᴗ˂)ﻭ .
 Just a little heads up. You might see in my stats that I worked on a lot of web stuff... that was for school. I had to use php and javascript and so on. I'm not a frontend and or a web dev and my website designs look bad. (っ´ω\`)ﾉ(╥ω╥)
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mino5531&langs_count=100&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=Mino5531&langs_count=100&theme=dark)
