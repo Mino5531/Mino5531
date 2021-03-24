@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there (〃▽〃)
+I'm currenly working on my own 2d mmorpg called magica online (C++) (๑˃ᴗ˂)ﻭ .
+Just a little heads up. You might see in my stats that I worked on a lot of web stuff... that was for school. I had to use php and javascript and so on. I'm not a frontend and or a web dev and my website designs look bad. (っ´ω\`)ﾉ(╥ω╥)
 
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mino5531&langs_count=100&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=Mino5531&langs_count=100&theme=dark)
+[![](https://github-readme-stats.vercel.app/api?username=Mino5531&count_private=true&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=Mino5531&count_private=true&show_icons=true&theme=dark)
 <!--
 **Mino5531/Mino5531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
