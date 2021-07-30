@@ -1,7 +1,10 @@
 ### Hi there (〃▽〃)
-I'm currenly working on my own 2D mmorpg called magica online (๑˃ᴗ˂)ﻭ .
-Just a little heads up. You might see in my stats that I worked on a lot of web stuff... that was for school. I had to use php and javascript and so on. I'm not a frontend and or a web dev and my website designs look bad. (っ´ω\`)ﾉ(╥ω╥)
-
+I'm currenly working on my own 2D mmorpg called magica online (๑˃ᴗ˂)ﻭ.  
+Just a little heads up. You might see in my stats that I worked on a lot of web stuff... that was for school. (っ´ω\`)ﾉ(╥ω╥)  
+As you maybe could already tell i like anime and manga and stuff. I like cute stuff like this: (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧  
+Programming wise i like C/C++, C# and sometimes Python.  
+I'm interested in AI, Game Servers and MMOs. Uhm... yeah here are my Github stats (⁄ ⁄•⁄ω⁄•⁄ ⁄)  
+Have a nice day!  
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mino5531&langs_count=100&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=Mino5531&langs_count=100&theme=dark)
 [![](https://github-readme-stats.vercel.app/api?username=Mino5531&count_private=true&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=Mino5531&count_private=true&show_icons=true&theme=dark)
 <!--
