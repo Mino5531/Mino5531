@@ -1,6 +1,5 @@
 ### Hi there (〃▽〃)
-I'm currenly working on my own 2D mmorpg called magica online (๑˃ᴗ˂)ﻭ.  
-Just a little heads up. You might see in my stats that I worked on a lot of web stuff... that was for school. (っ´ω\`)ﾉ(╥ω╥)  
+I'm currently working on Easyroam at DFN (๑˃ᴗ˂)ﻭ.  
 As you maybe could already tell i like anime and manga and stuff. I like cute stuff like this: (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧  
 Programming wise i like C/C++, C# and sometimes Python.  
 I'm interested in AI, Game Servers and MMOs. Uhm... yeah here are my Github stats (⁄ ⁄•⁄ω⁄•⁄ ⁄)  
