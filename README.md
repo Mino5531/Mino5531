@@ -1,5 +1,4 @@
 ### Hi there (〃▽〃)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mino5531&langs_count=100&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=Mino5531&langs_count=100&theme=dark)
 [![](https://github-readme-stats.vercel.app/api?username=Mino5531&count_private=true&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=Mino5531&count_private=true&show_icons=true&theme=dark)
 <!--
 **Mino5531/Mino5531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
